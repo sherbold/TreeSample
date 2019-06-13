@@ -12,8 +12,6 @@ Jeder Knoten beinhaltet den ein Element des Suchbaums, zum Beispiel eine Zahl. D
  1   4
 ```
 
-Diese Aufgabe ist deutlich komplexer als die bisherigen Aufgaben und unterteilt sich daher in mehrere Teilaufgaben. 
-
 ## Grundgerüst
 
 Erstellen Sie das Grundgerüst für die Klasse des Suchbaums. Der Baum soll die folgenden Methoden unterstützen:
